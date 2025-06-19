@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\abdallah mohamed\\Desktop\\HandMade\\HandMade\\HandMadeEcommece\\wwwroot\\Images\\Brands\\1d52b56e-6f9d-4ffa-a797-67fc03ee068f.png",
+      "PackagePath": "staticwebassets\\Images\\Brands\\1d52b56e-6f9d-4ffa-a797-67fc03ee068f.png"
+    },
+    {
+      "Id": "C:\\Users\\abdallah mohamed\\Desktop\\HandMade\\HandMade\\HandMadeEcommece\\wwwroot\\Images\\Brands\\2d940968-9726-42ee-8d5a-66bda0309156.png",
+      "PackagePath": "staticwebassets\\Images\\Brands\\2d940968-9726-42ee-8d5a-66bda0309156.png"
+    },
+    {
+      "Id": "C:\\Users\\abdallah mohamed\\Desktop\\HandMade\\HandMade\\HandMadeEcommece\\wwwroot\\Images\\Brands\\5ce019e2-b2bd-4bf8-b3fb-f678c8d6ada0.png",
+      "PackagePath": "staticwebassets\\Images\\Brands\\5ce019e2-b2bd-4bf8-b3fb-f678c8d6ada0.png"
+    },
+    {
+      "Id": "C:\\Users\\abdallah mohamed\\Desktop\\HandMade\\HandMade\\HandMadeEcommece\\wwwroot\\Images\\Brands\\8993c45c-59e5-4e5d-afc9-e9d2efc9e15f.png",
+      "PackagePath": "staticwebassets\\Images\\Brands\\8993c45c-59e5-4e5d-afc9-e9d2efc9e15f.png"
+    },
+    {
+      "Id": "C:\\Users\\abdallah mohamed\\Desktop\\HandMade\\HandMade\\HandMadeEcommece\\wwwroot\\Images\\Brands\\d168de65-6df2-4972-b6e6-6a5e421ffbed.png",
+      "PackagePath": "staticwebassets\\Images\\Brands\\d168de65-6df2-4972-b6e6-6a5e421ffbed.png"
+    },
+    {
+      "Id": "C:\\Users\\abdallah mohamed\\Desktop\\HandMade\\HandMade\\HandMadeEcommece\\wwwroot\\Images\\Brands\\da28b148-2cf0-43c1-bdb8-2f7f976ad3e5.png",
+      "PackagePath": "staticwebassets\\Images\\Brands\\da28b148-2cf0-43c1-bdb8-2f7f976ad3e5.png"
+    },
+    {
+      "Id": "C:\\Users\\abdallah mohamed\\Desktop\\HandMade\\HandMade\\HandMadeEcommece\\wwwroot\\Images\\Companies\\611f8f06-0a26-45f3-9803-1aa0263a4386.png",
+      "PackagePath": "staticwebassets\\Images\\Companies\\611f8f06-0a26-45f3-9803-1aa0263a4386.png"
+    },
+    {
+      "Id": "C:\\Users\\abdallah mohamed\\Desktop\\HandMade\\HandMade\\HandMadeEcommece\\wwwroot\\Images\\Users\\8a5ceb4e-5bd8-4d9d-b927-7ff2c99f9d73.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\8a5ceb4e-5bd8-4d9d-b927-7ff2c99f9d73.png"
+    },
+    {
+      "Id": "C:\\Users\\abdallah mohamed\\Desktop\\HandMade\\HandMade\\HandMadeEcommece\\wwwroot\\Images\\Users\\9449fbd3-264d-4b33-b697-d8b76f603dcf.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\9449fbd3-264d-4b33-b697-d8b76f603dcf.png"
+    },
+    {
+      "Id": "C:\\Users\\abdallah mohamed\\Desktop\\HandMade\\HandMade\\HandMadeEcommece\\wwwroot\\Images\\Users\\c6cb67ac-1b21-4e98-a538-f5ac9cb838c4.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\c6cb67ac-1b21-4e98-a538-f5ac9cb838c4.png"
+    },
+    {
+      "Id": "C:\\Users\\abdallah mohamed\\Desktop\\HandMade\\HandMade\\HandMadeEcommece\\wwwroot\\Images\\Users\\e3550c66-5958-407f-89c6-a85ce052df5a.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\e3550c66-5958-407f-89c6-a85ce052df5a.png"
+    },
+    {
+      "Id": "C:\\Users\\abdallah mohamed\\Desktop\\HandMade\\HandMade\\HandMadeEcommece\\wwwroot\\Images\\Users\\e8bae870-359e-4472-a01b-8c6e7c87fc07.png",
+      "PackagePath": "staticwebassets\\Images\\Users\\e8bae870-359e-4472-a01b-8c6e7c87fc07.png"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.HandMadeEcommece.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.HandMadeEcommece.props",
+      "PackagePath": "build\\HandMadeEcommece.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HandMadeEcommece.props",
+      "PackagePath": "buildMultiTargeting\\HandMadeEcommece.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.HandMadeEcommece.props",
+      "PackagePath": "buildTransitive\\HandMadeEcommece.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
